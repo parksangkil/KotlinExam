@@ -62,7 +62,7 @@ fun describe(obj: Any): String =
         }
 
 fun main(args: Array<String>) {
-    /*print("sum of 3 and 5 is ")
+    print("sum of 3 and 5 is ")
     println(sum(3, 5))
 
     println("sum of 19 and 23 is ${sum1(19, 23)}")
@@ -79,7 +79,7 @@ fun main(args: Array<String>) {
     x += 1
     println("x = $x")
 
-    println("max of 0 and 42 is ${maxOf(0, 42)}")*/
+    println("max of 0 and 42 is ${maxOf(0, 42)}")
 
     printProduct("6", "7")
     printProduct("a", "7")
